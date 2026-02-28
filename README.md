@@ -41,6 +41,15 @@ git clone https://github.com/indiekitai/pi-skills ~/.codex/skills/indiekit-skill
 | [throttled](skills/throttled/SKILL.md) | Rate limiting (fixed/sliding window, token bucket, GCRA) |
 | [llm-context](skills/llm-context/SKILL.md) | Estimate LLM context usage for codebases |
 | [just](skills/just/SKILL.md) | Task runner (Justfile format, like make but better) |
+| [git-standup](skills/git-standup/SKILL.md) | Generate daily standup reports from git history |
+| [clash-init](skills/clash-init/SKILL.md) | Generate Clash/mihomo proxy configs (SS, VMess, VLESS, Trojan, Hysteria2) |
+| [pgcomplete](skills/pgcomplete/SKILL.md) | Context-aware SQL auto-completion for PostgreSQL |
+| [rich-inspect](skills/rich-inspect/SKILL.md) | Inspect JS/TS objects with rich terminal output |
+
+### Automation
+| Skill | Description |
+|-------|-------------|
+| [trello-autopilot](skills/trello-autopilot/SKILL.md) | Auto-fix Trello bug cards with coding agents |
 
 ### Terminal Rendering
 | Skill | Description |

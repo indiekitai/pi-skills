@@ -1,6 +1,6 @@
 {
   "name": "@indiekitai/pi-skills",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "IndieKit developer tools as Pi/Claude Code/Codex skills — PostgreSQL health, schema diff, type generation, rate limiting, terminal styling, and more",
   "keywords": ["pi-package", "agent-skills", "postgresql", "developer-tools", "indiekit"],
   "author": "IndieKit <hello@indiekit.ai>",
