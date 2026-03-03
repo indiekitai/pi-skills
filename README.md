@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README.zh-CN.md)
+
 # @indiekitai/pi-skills
 
 Developer tools as agent skills for [Pi](https://pi.dev), [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [Codex CLI](https://github.com/openai/codex), and [Amp](https://amp.dev).
